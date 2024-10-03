@@ -1,0 +1,17 @@
+---
+title: "quarto_pres_test"
+author: "Marek"
+format: revealjs
+editor: visual
+
+---
+
+## Quarto
+
+Quarto enables you to weave together content and executable code into a finished document. To learn more about Quarto see <https://quarto.org>.
+
+
+## test slide 1
+
+
+## test slide 2
